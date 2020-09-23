@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This Stream Sucks",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "This Stream Sucks",
+      "id": 2
+    },
+    {
+      "description": "Fuck this Stream",
+      "title": "Other Stream",
+      "id": 3
+    },
+    {
+      "title": "DumbAss Shit Stream",
+      "description": "dsaf",
+      "id": 8
+    }
+  ]
+}
